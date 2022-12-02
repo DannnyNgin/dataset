@@ -1,0 +1,1561 @@
+release_year,sales,genre,region
+1980,0.32,Action,North America
+1980,0.72,Fighting,North America
+1980,2.53,Misc,North America
+1980,6.56,Shooter,North America
+1980,0.46,Sports,North America
+1981,13.86,Action,North America
+1981,6.47,Platform,North America
+1981,2.09,Puzzle,North America
+1981,0.45,Racing,North America
+1981,9.37,Shooter,North America
+1981,0.42,Simulation,North America
+1981,0.74,Sports,North America
+1982,6.07,Action,North America
+1982,0.81,Misc,North America
+1982,4.69,Platform,North America
+1982,9.35,Puzzle,North America
+1982,1.47,Racing,North America
+1982,3.55,Shooter,North America
+1982,0.98,Sports,North America
+1983,2.67,Action,North America
+1983,0.38,Adventure,North America
+1983,0.01,Misc,North America
+1983,2.8,Platform,North America
+1983,0.72,Puzzle,North America
+1983,0.45,Shooter,North America
+1983,0.73,Sports,North America
+1984,0.8,Action,North America
+1984,0,Misc,North America
+1984,0,Platform,North America
+1984,0.69,Puzzle,North America
+1984,2.3,Racing,North America
+1984,27.79,Shooter,North America
+1984,1.7,Sports,North America
+1985,1.64,Action,North America
+1985,0,Fighting,North America
+1985,29.93,Platform,North America
+1985,1.33,Puzzle,North America
+1985,0.65,Shooter,North America
+1985,0,Simulation,North America
+1985,0.18,Sports,North America
+1986,6.52,Action,North America
+1986,1.07,Platform,North America
+1986,1.13,Racing,North America
+1986,0.49,Role-Playing,North America
+1986,0.94,Shooter,North America
+1986,2.35,Sports,North America
+1987,1.04,Action,North America
+1987,2.19,Adventure,North America
+1987,2.8,Fighting,North America
+1987,0.9,Platform,North America
+1987,0.47,Role-Playing,North America
+1987,0.66,Shooter,North America
+1987,0.4,Sports,North America
+1988,1.15,Action,North America
+1988,16.34,Platform,North America
+1988,2.97,Puzzle,North America
+1988,1.47,Racing,North America
+1988,0.1,Role-Playing,North America
+1988,0.47,Shooter,North America
+1988,0,Simulation,North America
+1988,1.37,Sports,North America
+1989,3.83,Action,North America
+1989,0,Misc,North America
+1989,12.14,Platform,North America
+1989,26.54,Puzzle,North America
+1989,0,Role-Playing,North America
+1989,0.4,Shooter,North America
+1989,2.24,Sports,North America
+1990,4.27,Action,North America
+1990,14.14,Platform,North America
+1990,3.13,Puzzle,North America
+1990,3.1,Racing,North America
+1990,0.08,Role-Playing,North America
+1990,0.46,Simulation,North America
+1990,0.28,Sports,North America
+1991,3.47,Action,North America
+1991,0.85,Adventure,North America
+1991,0,Fighting,North America
+1991,0,Misc,North America
+1991,4.36,Platform,North America
+1991,0.86,Puzzle,North America
+1991,0.58,Racing,North America
+1991,0.24,Role-Playing,North America
+1991,1.06,Shooter,North America
+1991,0.93,Simulation,North America
+1991,0.41,Sports,North America
+1991,0,Strategy,North America
+1992,2.21,Action,North America
+1992,6.18,Adventure,North America
+1992,6.88,Fighting,North America
+1992,2.3,Misc,North America
+1992,8.23,Platform,North America
+1992,1.56,Puzzle,North America
+1992,3.54,Racing,North America
+1992,0,Role-Playing,North America
+1992,0.02,Shooter,North America
+1992,1.2,Simulation,North America
+1992,1.75,Sports,North America
+1992,0.02,Strategy,North America
+1993,0.64,Action,North America
+1993,0,Adventure,North America
+1993,2,Fighting,North America
+1993,0,Misc,North America
+1993,9.66,Platform,North America
+1993,0.62,Puzzle,North America
+1993,0,Racing,North America
+1993,0.25,Role-Playing,North America
+1993,1.61,Shooter,North America
+1993,0,Simulation,North America
+1993,0.04,Sports,North America
+1993,0.3,Strategy,North America
+1994,0.57,Action,North America
+1994,0.06,Adventure,North America
+1994,2.86,Fighting,North America
+1994,1.49,Misc,North America
+1994,14.88,Platform,North America
+1994,0,Puzzle,North America
+1994,0,Racing,North America
+1994,0.86,Role-Playing,North America
+1994,3.71,Shooter,North America
+1994,0.34,Simulation,North America
+1994,2.5,Sports,North America
+1994,0.89,Strategy,North America
+1995,1.73,Action,North America
+1995,0.02,Adventure,North America
+1995,4.39,Fighting,North America
+1995,2.32,Misc,North America
+1995,6.61,Platform,North America
+1995,0.21,Puzzle,North America
+1995,2.27,Racing,North America
+1995,0.71,Role-Playing,North America
+1995,0.7,Shooter,North America
+1995,1.36,Simulation,North America
+1995,2.56,Sports,North America
+1995,1.95,Strategy,North America
+1996,10.65,Action,North America
+1996,0.86,Adventure,North America
+1996,7.12,Fighting,North America
+1996,4.08,Misc,North America
+1996,13.81,Platform,North America
+1996,2.18,Puzzle,North America
+1996,16.94,Racing,North America
+1996,12.78,Role-Playing,North America
+1996,3.28,Shooter,North America
+1996,5.42,Simulation,North America
+1996,7.78,Sports,North America
+1996,1.86,Strategy,North America
+1997,14.4,Action,North America
+1997,2.36,Adventure,North America
+1997,6.03,Fighting,North America
+1997,3.28,Misc,North America
+1997,10.81,Platform,North America
+1997,1.34,Puzzle,North America
+1997,15.52,Racing,North America
+1997,5.31,Role-Playing,North America
+1997,15,Shooter,North America
+1997,1.9,Simulation,North America
+1997,15.55,Sports,North America
+1997,3.25,Strategy,North America
+1998,20.15,Action,North America
+1998,3.17,Adventure,North America
+1998,18.43,Fighting,North America
+1998,5.53,Misc,North America
+1998,17.05,Platform,North America
+1998,2.58,Puzzle,North America
+1998,14.63,Racing,North America
+1998,9.16,Role-Playing,North America
+1998,5.61,Shooter,North America
+1998,2.79,Simulation,North America
+1998,24.7,Sports,North America
+1998,4.56,Strategy,North America
+1999,14.91,Action,North America
+1999,3.32,Adventure,North America
+1999,8.51,Fighting,North America
+1999,11.95,Misc,North America
+1999,13,Platform,North America
+1999,0.81,Puzzle,North America
+1999,21.15,Racing,North America
+1999,17.29,Role-Playing,North America
+1999,7.77,Shooter,North America
+1999,3.41,Simulation,North America
+1999,15.09,Sports,North America
+1999,8.85,Strategy,North America
+2000,17.79,Action,North America
+2000,1.01,Adventure,North America
+2000,9.69,Fighting,North America
+2000,7.14,Misc,North America
+2000,7.87,Platform,North America
+2000,1.73,Puzzle,North America
+2000,11,Racing,North America
+2000,7.2,Role-Playing,North America
+2000,4,Shooter,North America
+2000,1.11,Simulation,North America
+2000,22.75,Sports,North America
+2000,3.21,Strategy,North America
+2001,29.81,Action,North America
+2001,3.92,Adventure,North America
+2001,9.19,Fighting,North America
+2001,9.96,Misc,North America
+2001,21.61,Platform,North America
+2001,5.22,Puzzle,North America
+2001,29.4,Racing,North America
+2001,7.46,Role-Playing,North America
+2001,15.11,Shooter,North America
+2001,10.3,Simulation,North America
+2001,28.8,Sports,North America
+2001,3.2,Strategy,North America
+2002,47.81,Action,North America
+2002,4.72,Adventure,North America
+2002,14,Fighting,North America
+2002,8.49,Misc,North America
+2002,26.73,Platform,North America
+2002,3.41,Puzzle,North America
+2002,18.49,Racing,North America
+2002,20.43,Role-Playing,North America
+2002,28.69,Shooter,North America
+2002,6.01,Simulation,North America
+2002,35.17,Sports,North America
+2002,2.24,Strategy,North America
+2003,37.74,Action,North America
+2003,0.96,Adventure,North America
+2003,13.32,Fighting,North America
+2003,10.71,Misc,North America
+2003,25.31,Platform,North America
+2003,0.93,Puzzle,North America
+2003,27.65,Racing,North America
+2003,13.8,Role-Playing,North America
+2003,16.13,Shooter,North America
+2003,12.06,Simulation,North America
+2003,31.45,Sports,North America
+2003,3.55,Strategy,North America
+2004,39.08,Action,North America
+2004,4.95,Adventure,North America
+2004,9.94,Fighting,North America
+2004,17.15,Misc,North America
+2004,26.28,Platform,North America
+2004,3.83,Puzzle,North America
+2004,22.19,Racing,North America
+2004,21.56,Role-Playing,North America
+2004,30.34,Shooter,North America
+2004,5.74,Simulation,North America
+2004,38.52,Sports,North America
+2004,2.93,Strategy,North America
+2005,49.6,Action,North America
+2005,5.05,Adventure,North America
+2005,10.32,Fighting,North America
+2005,26.76,Misc,North America
+2005,15.5,Platform,North America
+2005,6.54,Puzzle,North America
+2005,30.65,Racing,North America
+2005,12.22,Role-Playing,North America
+2005,27.83,Shooter,North America
+2005,19.16,Simulation,North America
+2005,36.06,Sports,North America
+2005,2.46,Strategy,North America
+2006,38.27,Action,North America
+2006,5.11,Adventure,North America
+2006,12.44,Fighting,North America
+2006,25.9,Misc,North America
+2006,23.11,Platform,North America
+2006,4.37,Puzzle,North America
+2006,20.25,Racing,North America
+2006,24.22,Role-Playing,North America
+2006,23.02,Shooter,North America
+2006,10.6,Simulation,North America
+2006,72.78,Sports,North America
+2006,2.06,Strategy,North America
+2007,58.43,Action,North America
+2007,12.89,Adventure,North America
+2007,7.26,Fighting,North America
+2007,47.55,Misc,North America
+2007,18.81,Platform,North America
+2007,9.91,Puzzle,North America
+2007,18.39,Racing,North America
+2007,19.6,Role-Playing,North America
+2007,38.85,Shooter,North America
+2007,26.83,Simulation,North America
+2007,47.59,Sports,North America
+2007,3.78,Strategy,North America
+2008,72.02,Action,North America
+2008,12.83,Adventure,North America
+2008,18.05,Fighting,North America
+2008,47.21,Misc,North America
+2008,17.4,Platform,North America
+2008,8.02,Puzzle,North America
+2008,33.25,Racing,North America
+2008,24.98,Role-Playing,North America
+2008,34.89,Shooter,North America
+2008,26.62,Simulation,North America
+2008,48.61,Sports,North America
+2008,4.81,Strategy,North America
+2009,71.08,Action,North America
+2009,9.85,Adventure,North America
+2009,17.51,Fighting,North America
+2009,40.6,Misc,North America
+2009,20.03,Platform,North America
+2009,11.09,Puzzle,North America
+2009,14.93,Racing,North America
+2009,18.78,Role-Playing,North America
+2009,38.9,Shooter,North America
+2009,17.35,Simulation,North America
+2009,70.85,Sports,North America
+2009,4.58,Strategy,North America
+2010,59.72,Action,North America
+2010,6.08,Adventure,North America
+2010,7.42,Fighting,North America
+2010,54.11,Misc,North America
+2010,16.62,Platform,North America
+2010,6.36,Puzzle,North America
+2010,14.13,Racing,North America
+2010,28.27,Role-Playing,North America
+2010,43.04,Shooter,North America
+2010,11.02,Simulation,North America
+2010,48.11,Sports,North America
+2010,5.77,Strategy,North America
+2011,53.08,Action,North America
+2011,5.84,Adventure,North America
+2011,11.84,Fighting,North America
+2011,31.5,Misc,North America
+2011,12.9,Platform,North America
+2011,1.61,Puzzle,North America
+2011,14.76,Racing,North America
+2011,19.78,Role-Playing,North America
+2011,49.66,Shooter,North America
+2011,7.4,Simulation,North America
+2011,27.17,Sports,North America
+2011,3.25,Strategy,North America
+2012,51.79,Action,North America
+2012,1.78,Adventure,North America
+2012,4.24,Fighting,North America
+2012,10.7,Misc,North America
+2012,7.24,Platform,North America
+2012,0.3,Puzzle,North America
+2012,4.26,Racing,North America
+2012,17.6,Role-Playing,North America
+2012,35.03,Shooter,North America
+2012,3.11,Simulation,North America
+2012,16.26,Sports,North America
+2012,0.95,Strategy,North America
+2013,53.52,Action,North America
+2013,1.5,Adventure,North America
+2013,3.12,Fighting,North America
+2013,12.44,Misc,North America
+2013,11.35,Platform,North America
+2013,0.18,Puzzle,North America
+2013,4.22,Racing,North America
+2013,12.93,Role-Playing,North America
+2013,30.72,Shooter,North America
+2013,2.23,Simulation,North America
+2013,19.14,Sports,North America
+2013,2.3,Strategy,North America
+2014,38.85,Action,North America
+2014,1.8,Adventure,North America
+2014,6.89,Fighting,North America
+2014,9.47,Misc,North America
+2014,3.01,Platform,North America
+2014,0.59,Puzzle,North America
+2014,5.92,Racing,North America
+2014,13.65,Role-Playing,North America
+2014,30.84,Shooter,North America
+2014,1.27,Simulation,North America
+2014,19.82,Sports,North America
+2014,0.16,Strategy,North America
+2015,24.39,Action,North America
+2015,2.89,Adventure,North America
+2015,3.7,Fighting,North America
+2015,4.82,Misc,North America
+2015,2.49,Platform,North America
+2015,0.06,Puzzle,North America
+2015,2.09,Racing,North America
+2015,13.93,Role-Playing,North America
+2015,31.94,Shooter,North America
+2015,1.2,Simulation,North America
+2015,18.77,Sports,North America
+2015,0.58,Strategy,North America
+2016,9.29,Action,North America
+2016,0.95,Adventure,North America
+2016,1.84,Fighting,North America
+2016,0.76,Misc,North America
+2016,1.29,Platform,North America
+2016,0,Puzzle,North America
+2016,0.73,Racing,North America
+2016,5.89,Role-Playing,North America
+2016,16.24,Shooter,North America
+2016,0.16,Simulation,North America
+2016,7.54,Sports,North America
+2016,0.24,Strategy,North America
+2017,0,Action,North America
+2017,0,Role-Playing,North America
+2020,0.27,Simulation,North America
+1980,0.02,Action,European Union
+1980,0.04,Fighting,European Union
+1980,0.15,Misc,European Union
+1980,0.43,Shooter,European Union
+1980,0.03,Sports,European Union
+1981,0.81,Action,European Union
+1981,0.37,Platform,European Union
+1981,0.13,Puzzle,European Union
+1981,0.03,Racing,European Union
+1981,0.56,Shooter,European Union
+1981,0.02,Simulation,European Union
+1981,0.04,Sports,European Union
+1982,0.38,Action,European Union
+1982,0.05,Misc,European Union
+1982,0.28,Platform,European Union
+1982,0.58,Puzzle,European Union
+1982,0.09,Racing,European Union
+1982,0.21,Shooter,European Union
+1982,0.06,Sports,European Union
+1983,0.17,Action,European Union
+1983,0.02,Adventure,European Union
+1983,0,Misc,European Union
+1983,0.43,Platform,European Union
+1983,0.05,Puzzle,European Union
+1983,0.03,Shooter,European Union
+1983,0.1,Sports,European Union
+1984,0.19,Action,European Union
+1984,0,Misc,European Union
+1984,0,Platform,European Union
+1984,0.18,Puzzle,European Union
+1984,0.49,Racing,European Union
+1984,0.85,Shooter,European Union
+1984,0.39,Sports,European Union
+1985,0.38,Action,European Union
+1985,0,Fighting,European Union
+1985,3.77,Platform,European Union
+1985,0.19,Puzzle,European Union
+1985,0.14,Shooter,European Union
+1985,0.03,Simulation,European Union
+1985,0.23,Sports,European Union
+1986,1.66,Action,European Union
+1986,0.18,Platform,European Union
+1986,0.37,Racing,European Union
+1986,0,Role-Playing,European Union
+1986,0.16,Shooter,European Union
+1986,0.47,Sports,European Union
+1987,0.06,Action,European Union
+1987,0.5,Adventure,European Union
+1987,0.65,Fighting,European Union
+1987,0.14,Platform,European Union
+1987,0,Role-Playing,European Union
+1987,0.03,Shooter,European Union
+1987,0.03,Sports,European Union
+1988,0.16,Action,European Union
+1988,4.99,Platform,European Union
+1988,0.69,Puzzle,European Union
+1988,0.38,Racing,European Union
+1988,0,Role-Playing,European Union
+1988,0.03,Shooter,European Union
+1988,0.02,Simulation,European Union
+1988,0.32,Sports,European Union
+1989,0.46,Action,European Union
+1989,0,Misc,European Union
+1989,3.08,Platform,European Union
+1989,3.61,Puzzle,European Union
+1989,0,Role-Playing,European Union
+1989,0.39,Shooter,European Union
+1989,0.9,Sports,European Union
+1990,0.97,Action,European Union
+1990,3.99,Platform,European Union
+1990,0.8,Puzzle,European Union
+1990,1.2,Racing,European Union
+1990,0,Role-Playing,European Union
+1990,0.17,Simulation,European Union
+1990,0.5,Sports,European Union
+1991,1.08,Action,European Union
+1991,0.31,Adventure,European Union
+1991,0,Fighting,European Union
+1991,0,Misc,European Union
+1991,1.19,Platform,European Union
+1991,0.16,Puzzle,European Union
+1991,0.37,Racing,European Union
+1991,0.09,Role-Playing,European Union
+1991,0.38,Shooter,European Union
+1991,0.27,Simulation,European Union
+1991,0.1,Sports,European Union
+1991,0,Strategy,European Union
+1992,0.96,Action,European Union
+1992,2.81,Adventure,European Union
+1992,2.28,Fighting,European Union
+1992,0.71,Misc,European Union
+1992,2.05,Platform,European Union
+1992,0.52,Puzzle,European Union
+1992,1.24,Racing,European Union
+1992,0,Role-Playing,European Union
+1992,0,Shooter,European Union
+1992,0.84,Simulation,European Union
+1992,0.25,Sports,European Union
+1992,0.05,Strategy,European Union
+1993,0.22,Action,European Union
+1993,0,Adventure,European Union
+1993,0.55,Fighting,European Union
+1993,0,Misc,European Union
+1993,3.16,Platform,European Union
+1993,0.13,Puzzle,European Union
+1993,0,Racing,European Union
+1993,0.07,Role-Playing,European Union
+1993,0.51,Shooter,European Union
+1993,0,Simulation,European Union
+1993,0.01,Sports,European Union
+1993,0,Strategy,European Union
+1994,0.12,Action,European Union
+1994,2.81,Adventure,European Union
+1994,0.98,Fighting,European Union
+1994,0.81,Misc,European Union
+1994,5.73,Platform,European Union
+1994,0,Puzzle,European Union
+1994,0,Racing,European Union
+1994,0,Role-Playing,European Union
+1994,2.57,Shooter,European Union
+1994,0.23,Simulation,European Union
+1994,0.55,Sports,European Union
+1994,1.08,Strategy,European Union
+1995,0.45,Action,European Union
+1995,0.01,Adventure,European Union
+1995,2.84,Fighting,European Union
+1995,1.56,Misc,European Union
+1995,3.22,Platform,European Union
+1995,0.13,Puzzle,European Union
+1995,1.56,Racing,European Union
+1995,0.3,Role-Playing,European Union
+1995,0.48,Shooter,European Union
+1995,0.63,Simulation,European Union
+1995,1.28,Sports,European Union
+1995,2.44,Strategy,European Union
+1996,5.88,Action,European Union
+1996,0.6,Adventure,European Union
+1996,4.05,Fighting,European Union
+1996,2.75,Misc,European Union
+1996,6.83,Platform,European Union
+1996,0.29,Puzzle,European Union
+1996,5.19,Racing,European Union
+1996,11.04,Role-Playing,European Union
+1996,2.14,Shooter,European Union
+1996,3.05,Simulation,European Union
+1996,3.78,Sports,European Union
+1996,1.66,Strategy,European Union
+1997,9.86,Action,European Union
+1997,1.34,Adventure,European Union
+1997,2.65,Fighting,European Union
+1997,1.22,Misc,European Union
+1997,6.45,Platform,European Union
+1997,0.53,Puzzle,European Union
+1997,10.82,Racing,European Union
+1997,3.44,Role-Playing,European Union
+1997,4.5,Shooter,European Union
+1997,1.29,Simulation,European Union
+1997,5.47,Sports,European Union
+1997,0.75,Strategy,European Union
+1998,11.9,Action,European Union
+1998,2.52,Adventure,European Union
+1998,7.8,Fighting,European Union
+1998,2.91,Misc,European Union
+1998,8.19,Platform,European Union
+1998,1.59,Puzzle,European Union
+1998,9.62,Racing,European Union
+1998,6.44,Role-Playing,European Union
+1998,3.36,Shooter,European Union
+1998,0.77,Simulation,European Union
+1998,10.21,Sports,European Union
+1998,1.59,Strategy,European Union
+1999,8.68,Action,European Union
+1999,2.78,Adventure,European Union
+1999,2.65,Fighting,European Union
+1999,3.73,Misc,European Union
+1999,5.34,Platform,European Union
+1999,0.45,Puzzle,European Union
+1999,11.11,Racing,European Union
+1999,11.17,Role-Playing,European Union
+1999,3.73,Shooter,European Union
+1999,1.33,Simulation,European Union
+1999,7.03,Sports,European Union
+1999,4.67,Strategy,European Union
+2000,10.84,Action,European Union
+2000,0.69,Adventure,European Union
+2000,6.31,Fighting,European Union
+2000,4.91,Misc,European Union
+2000,4.64,Platform,European Union
+2000,0.93,Puzzle,European Union
+2000,6.5,Racing,European Union
+2000,4.21,Role-Playing,European Union
+2000,2.17,Shooter,European Union
+2000,0.77,Simulation,European Union
+2000,9.77,Sports,European Union
+2000,1.03,Strategy,European Union
+2001,19.25,Action,European Union
+2001,3.67,Adventure,European Union
+2001,5,Fighting,European Union
+2001,4.25,Misc,European Union
+2001,11.62,Platform,European Union
+2001,1.84,Puzzle,European Union
+2001,17.89,Racing,European Union
+2001,4.14,Role-Playing,European Union
+2001,7.5,Shooter,European Union
+2001,4.35,Simulation,European Union
+2001,14.14,Sports,European Union
+2001,1.24,Strategy,European Union
+2002,27.01,Action,European Union
+2002,2.51,Adventure,European Union
+2002,6.21,Fighting,European Union
+2002,3.56,Misc,European Union
+2002,12.3,Platform,European Union
+2002,1.41,Puzzle,European Union
+2002,8.89,Racing,European Union
+2002,9.39,Role-Playing,European Union
+2002,14.98,Shooter,European Union
+2002,3.53,Simulation,European Union
+2002,19.24,Sports,European Union
+2002,0.72,Strategy,European Union
+2003,20.88,Action,European Union
+2003,0.57,Adventure,European Union
+2003,5.78,Fighting,European Union
+2003,7.46,Misc,European Union
+2003,12.5,Platform,European Union
+2003,0.28,Puzzle,European Union
+2003,17.23,Racing,European Union
+2003,5.7,Role-Playing,European Union
+2003,8.54,Shooter,European Union
+2003,6.47,Simulation,European Union
+2003,15.96,Sports,European Union
+2003,2.44,Strategy,European Union
+2004,16.02,Action,European Union
+2004,2.13,Adventure,European Union
+2004,4.12,Fighting,European Union
+2004,9.44,Misc,European Union
+2004,12.01,Platform,European Union
+2004,1.48,Puzzle,European Union
+2004,12.46,Racing,European Union
+2004,16.73,Role-Playing,European Union
+2004,12.76,Shooter,European Union
+2004,3.56,Simulation,European Union
+2004,14.86,Sports,European Union
+2004,1.71,Strategy,European Union
+2005,21.88,Action,European Union
+2005,2.03,Adventure,European Union
+2005,4.46,Fighting,European Union
+2005,20.21,Misc,European Union
+2005,5.31,Platform,European Union
+2005,6.04,Puzzle,European Union
+2005,15.66,Racing,European Union
+2005,4.9,Role-Playing,European Union
+2005,9.18,Shooter,European Union
+2005,16.28,Simulation,European Union
+2005,14.06,Sports,European Union
+2005,1.1,Strategy,European Union
+2006,15.03,Action,European Union
+2006,2.58,Adventure,European Union
+2006,4.48,Fighting,European Union
+2006,19.26,Misc,European Union
+2006,11.8,Platform,European Union
+2006,2.08,Puzzle,European Union
+2006,8.76,Racing,European Union
+2006,7.95,Role-Playing,European Union
+2006,8.73,Shooter,European Union
+2006,6.12,Simulation,European Union
+2006,40.06,Sports,European Union
+2006,1.04,Strategy,European Union
+2007,25.08,Action,European Union
+2007,5.45,Adventure,European Union
+2007,3.42,Fighting,European Union
+2007,20.62,Misc,European Union
+2007,9.62,Platform,European Union
+2007,8.67,Puzzle,European Union
+2007,13.01,Racing,European Union
+2007,8.21,Role-Playing,European Union
+2007,21.81,Shooter,European Union
+2007,13.82,Simulation,European Union
+2007,26.3,Sports,European Union
+2007,1.81,Strategy,European Union
+2008,38.68,Action,European Union
+2008,5.55,Adventure,European Union
+2008,6.99,Fighting,European Union
+2008,20.73,Misc,European Union
+2008,10.52,Platform,European Union
+2008,5,Puzzle,European Union
+2008,23.99,Racing,European Union
+2008,10.9,Role-Playing,European Union
+2008,16.05,Shooter,European Union
+2008,11.9,Simulation,European Union
+2008,26.68,Sports,European Union
+2008,4.15,Strategy,European Union
+2009,38.28,Action,European Union
+2009,5.44,Adventure,European Union
+2009,7.41,Fighting,European Union
+2009,20.18,Misc,European Union
+2009,11.38,Platform,European Union
+2009,5.44,Puzzle,European Union
+2009,12.88,Racing,European Union
+2009,8.08,Role-Playing,European Union
+2009,20.85,Shooter,European Union
+2009,11.51,Simulation,European Union
+2009,41.67,Sports,European Union
+2009,4.82,Strategy,European Union
+2010,34.51,Action,European Union
+2010,4.92,Adventure,European Union
+2010,4.09,Fighting,European Union
+2010,26.37,Misc,European Union
+2010,8.23,Platform,European Union
+2010,3.02,Puzzle,European Union
+2010,14.17,Racing,European Union
+2010,13.18,Role-Playing,European Union
+2010,23.43,Shooter,European Union
+2010,6.67,Simulation,European Union
+2010,28.36,Sports,European Union
+2010,4.47,Strategy,European Union
+2011,39.78,Action,European Union
+2011,4.5,Adventure,European Union
+2011,5.45,Fighting,European Union
+2011,13.4,Misc,European Union
+2011,8.66,Platform,European Union
+2011,2.16,Puzzle,European Union
+2011,13.29,Racing,European Union
+2011,13.77,Role-Playing,European Union
+2011,34.55,Shooter,European Union
+2011,5.17,Simulation,European Union
+2011,19.39,Sports,European Union
+2011,2.85,Strategy,European Union
+2012,41.21,Action,European Union
+2012,1.21,Adventure,European Union
+2012,2.24,Fighting,European Union
+2012,6.28,Misc,European Union
+2012,5.83,Platform,European Union
+2012,0.4,Puzzle,European Union
+2012,7.1,Racing,European Union
+2012,11.56,Role-Playing,European Union
+2012,25.61,Shooter,European Union
+2012,3.63,Simulation,European Union
+2012,8.57,Sports,European Union
+2012,0.95,Strategy,European Union
+2013,43.45,Action,European Union
+2013,1.76,Adventure,European Union
+2013,1.86,Fighting,European Union
+2013,7.18,Misc,European Union
+2013,8.78,Platform,European Union
+2013,0.48,Puzzle,European Union
+2013,6.06,Racing,European Union
+2013,8.8,Role-Playing,European Union
+2013,22.34,Shooter,European Union
+2013,3.62,Simulation,European Union
+2013,14.79,Sports,European Union
+2013,2.43,Strategy,European Union
+2014,39.86,Action,European Union
+2014,1.82,Adventure,European Union
+2014,2.97,Fighting,European Union
+2014,8.6,Misc,European Union
+2014,3.6,Platform,European Union
+2014,0.39,Puzzle,European Union
+2014,7.61,Racing,European Union
+2014,10.96,Role-Playing,European Union
+2014,25.24,Shooter,European Union
+2014,3.56,Simulation,European Union
+2014,17.91,Sports,European Union
+2014,0.22,Strategy,European Union
+2015,24.14,Action,European Union
+2015,3.35,Adventure,European Union
+2015,2.38,Fighting,European Union
+2015,3.6,Misc,European Union
+2015,1.81,Platform,European Union
+2015,0.12,Puzzle,European Union
+2015,4.75,Racing,European Union
+2015,12.93,Role-Playing,European Union
+2015,24.38,Shooter,European Union
+2015,2.47,Simulation,European Union
+2015,15.81,Sports,European Union
+2015,0.98,Strategy,European Union
+2016,10.68,Action,European Union
+2016,1.32,Adventure,European Union
+2016,1.34,Fighting,European Union
+2016,0.66,Misc,European Union
+2016,1.39,Platform,European Union
+2016,0.01,Puzzle,European Union
+2016,1.77,Racing,European Union
+2016,4.28,Role-Playing,European Union
+2016,15.9,Shooter,European Union
+2016,1.27,Simulation,European Union
+2016,12.01,Sports,European Union
+2016,0.59,Strategy,European Union
+2017,0,Action,European Union
+2017,0,Role-Playing,European Union
+2020,0,Simulation,European Union
+1980,0,Action,Japan
+1980,0,Fighting,Japan
+1980,0,Misc,Japan
+1980,0,Shooter,Japan
+1980,0,Sports,Japan
+1981,0,Action,Japan
+1981,0,Platform,Japan
+1981,0,Puzzle,Japan
+1981,0,Racing,Japan
+1981,0,Shooter,Japan
+1981,0,Simulation,Japan
+1981,0,Sports,Japan
+1982,0,Action,Japan
+1982,0,Misc,Japan
+1982,0,Platform,Japan
+1982,0,Puzzle,Japan
+1982,0,Racing,Japan
+1982,0,Shooter,Japan
+1982,0,Sports,Japan
+1983,0,Action,Japan
+1983,0,Adventure,Japan
+1983,2.13,Misc,Japan
+1983,3.62,Platform,Japan
+1983,0,Puzzle,Japan
+1983,0,Shooter,Japan
+1983,2.35,Sports,Japan
+1984,0.83,Action,Japan
+1984,1.45,Misc,Japan
+1984,0.69,Platform,Japan
+1984,2.23,Puzzle,Japan
+1984,3.09,Racing,Japan
+1984,1.96,Shooter,Japan
+1984,4.02,Sports,Japan
+1985,1.44,Action,Japan
+1985,1.05,Fighting,Japan
+1985,8.67,Platform,Japan
+1985,1.66,Puzzle,Japan
+1985,0.21,Shooter,Japan
+1985,0,Simulation,Japan
+1985,1.53,Sports,Japan
+1986,5.31,Action,Japan
+1986,8.11,Platform,Japan
+1986,0.41,Racing,Japan
+1986,0.52,Role-Playing,Japan
+1986,2.77,Shooter,Japan
+1986,2.69,Sports,Japan
+1987,0,Action,Japan
+1987,1.61,Adventure,Japan
+1987,1.87,Fighting,Japan
+1987,0.69,Platform,Japan
+1987,4.18,Role-Playing,Japan
+1987,0,Shooter,Japan
+1987,3.28,Sports,Japan
+1988,0.42,Action,Japan
+1988,5.7,Platform,Japan
+1988,1.81,Puzzle,Japan
+1988,0.19,Racing,Japan
+1988,5.78,Role-Playing,Japan
+1988,0,Shooter,Japan
+1988,0,Simulation,Japan
+1988,1.86,Sports,Japan
+1989,0.31,Action,Japan
+1989,1.28,Misc,Japan
+1989,4.97,Platform,Japan
+1989,6.77,Puzzle,Japan
+1989,2.2,Role-Playing,Japan
+1989,0.36,Shooter,Japan
+1989,2.47,Sports,Japan
+1990,1.01,Action,Japan
+1990,4.28,Platform,Japan
+1990,1.93,Puzzle,Japan
+1990,1.48,Racing,Japan
+1990,4.42,Role-Playing,Japan
+1990,0.48,Simulation,Japan
+1990,1.28,Sports,Japan
+1991,2.06,Action,Japan
+1991,1.04,Adventure,Japan
+1991,0.39,Fighting,Japan
+1991,0.08,Misc,Japan
+1991,1.91,Platform,Japan
+1991,2.11,Puzzle,Japan
+1991,0.15,Racing,Japan
+1991,2.81,Role-Playing,Japan
+1991,0.5,Shooter,Japan
+1991,0.91,Simulation,Japan
+1991,1.88,Sports,Japan
+1991,0.94,Strategy,Japan
+1992,0.54,Action,Japan
+1992,2.97,Adventure,Japan
+1992,5.75,Fighting,Japan
+1992,1.81,Misc,Japan
+1992,2.79,Platform,Japan
+1992,2.68,Puzzle,Japan
+1992,4.09,Racing,Japan
+1992,6.83,Role-Playing,Japan
+1992,0.26,Shooter,Japan
+1992,0,Simulation,Japan
+1992,0.9,Sports,Japan
+1992,0.29,Strategy,Japan
+1993,0.92,Action,Japan
+1993,0.07,Adventure,Japan
+1993,6.11,Fighting,Japan
+1993,0.3,Misc,Japan
+1993,5.21,Platform,Japan
+1993,2.39,Puzzle,Japan
+1993,0.36,Racing,Japan
+1993,5.25,Role-Playing,Japan
+1993,0.89,Shooter,Japan
+1993,0.19,Simulation,Japan
+1993,3.13,Sports,Japan
+1993,0.51,Strategy,Japan
+1994,0.84,Action,Japan
+1994,0.87,Adventure,Japan
+1994,4.44,Fighting,Japan
+1994,0.46,Misc,Japan
+1994,7.02,Platform,Japan
+1994,1.53,Puzzle,Japan
+1994,2.13,Racing,Japan
+1994,6.23,Role-Playing,Japan
+1994,1.67,Shooter,Japan
+1994,2.1,Simulation,Japan
+1994,5.23,Sports,Japan
+1994,1.47,Strategy,Japan
+1995,1.26,Action,Japan
+1995,0.67,Adventure,Japan
+1995,7.05,Fighting,Japan
+1995,2.43,Misc,Japan
+1995,6.36,Platform,Japan
+1995,2.34,Puzzle,Japan
+1995,1.95,Racing,Japan
+1995,13.09,Role-Playing,Japan
+1995,2.85,Shooter,Japan
+1995,2.03,Simulation,Japan
+1995,3.87,Sports,Japan
+1995,1.85,Strategy,Japan
+1996,2.62,Action,Japan
+1996,2.6,Adventure,Japan
+1996,6.12,Fighting,Japan
+1996,3.47,Misc,Japan
+1996,6.76,Platform,Japan
+1996,1.36,Puzzle,Japan
+1996,5.3,Racing,Japan
+1996,18.78,Role-Playing,Japan
+1996,1.11,Shooter,Japan
+1996,2.38,Simulation,Japan
+1996,5.08,Sports,Japan
+1996,1.86,Strategy,Japan
+1997,1.9,Action,Japan
+1997,1.05,Adventure,Japan
+1997,2.6,Fighting,Japan
+1997,0.98,Misc,Japan
+1997,3.71,Platform,Japan
+1997,3.83,Puzzle,Japan
+1997,4.09,Racing,Japan
+1997,11.56,Role-Playing,Japan
+1997,2.17,Shooter,Japan
+1997,5.91,Simulation,Japan
+1997,7.59,Sports,Japan
+1997,3.48,Strategy,Japan
+1998,5.55,Action,Japan
+1998,2.91,Adventure,Japan
+1998,4.18,Fighting,Japan
+1998,2.88,Misc,Japan
+1998,3.29,Platform,Japan
+1998,1.84,Puzzle,Japan
+1998,2.3,Racing,Japan
+1998,11.33,Role-Playing,Japan
+1998,0.36,Shooter,Japan
+1998,3.36,Simulation,Japan
+1998,5.06,Sports,Japan
+1998,6.98,Strategy,Japan
+1999,2.9,Action,Japan
+1999,1.11,Adventure,Japan
+1999,2.83,Fighting,Japan
+1999,4.32,Misc,Japan
+1999,1.66,Platform,Japan
+1999,0.02,Puzzle,Japan
+1999,3.35,Racing,Japan
+1999,18.7,Role-Playing,Japan
+1999,0.29,Shooter,Japan
+1999,6.12,Simulation,Japan
+1999,6.83,Sports,Japan
+1999,4.21,Strategy,Japan
+2000,3.74,Action,Japan
+2000,1.11,Adventure,Japan
+2000,3.05,Fighting,Japan
+2000,2.77,Misc,Japan
+2000,2.56,Platform,Japan
+2000,0.98,Puzzle,Japan
+2000,1.15,Racing,Japan
+2000,15.8,Role-Playing,Japan
+2000,0.2,Shooter,Japan
+2000,1.27,Simulation,Japan
+2000,6.36,Sports,Japan
+2000,3.78,Strategy,Japan
+2001,5.99,Action,Japan
+2001,1.07,Adventure,Japan
+2001,2.73,Fighting,Japan
+2001,1.26,Misc,Japan
+2001,3.54,Platform,Japan
+2001,0.7,Puzzle,Japan
+2001,4,Racing,Japan
+2001,9.55,Role-Playing,Japan
+2001,0.53,Shooter,Japan
+2001,3.77,Simulation,Japan
+2001,3.9,Sports,Japan
+2001,2.82,Strategy,Japan
+2002,5.1,Action,Japan
+2002,3.23,Adventure,Japan
+2002,3.14,Fighting,Japan
+2002,2.9,Misc,Japan
+2002,4.52,Platform,Japan
+2002,0.17,Puzzle,Japan
+2002,0.2,Racing,Japan
+2002,13.64,Role-Playing,Japan
+2002,1.02,Shooter,Japan
+2002,0.75,Simulation,Japan
+2002,4.69,Sports,Japan
+2002,2.4,Strategy,Japan
+2003,4.19,Action,Japan
+2003,0.43,Adventure,Japan
+2003,2.95,Fighting,Japan
+2003,3.58,Misc,Japan
+2003,2.22,Platform,Japan
+2003,1.14,Puzzle,Japan
+2003,2.83,Racing,Japan
+2003,9.63,Role-Playing,Japan
+2003,0.21,Shooter,Japan
+2003,1.46,Simulation,Japan
+2003,4,Sports,Japan
+2003,1.56,Strategy,Japan
+2004,4.82,Action,Japan
+2004,1.23,Adventure,Japan
+2004,1.34,Fighting,Japan
+2004,2.43,Misc,Japan
+2004,6.11,Platform,Japan
+2004,2.55,Puzzle,Japan
+2004,1.99,Racing,Japan
+2004,13.49,Role-Playing,Japan
+2004,0.65,Shooter,Japan
+2004,0.58,Simulation,Japan
+2004,4.42,Sports,Japan
+2004,2.04,Strategy,Japan
+2005,6.32,Action,Japan
+2005,0.74,Adventure,Japan
+2005,3.07,Fighting,Japan
+2005,7.96,Misc,Japan
+2005,1.12,Platform,Japan
+2005,6.21,Puzzle,Japan
+2005,4.37,Racing,Japan
+2005,9.22,Role-Playing,Japan
+2005,1.32,Shooter,Japan
+2005,9.02,Simulation,Japan
+2005,3.54,Sports,Japan
+2005,1.38,Strategy,Japan
+2006,5.78,Action,Japan
+2006,2.62,Adventure,Japan
+2006,2.82,Fighting,Japan
+2006,15.74,Misc,Japan
+2006,9.21,Platform,Japan
+2006,3.4,Puzzle,Japan
+2006,0.87,Racing,Japan
+2006,19.83,Role-Playing,Japan
+2006,1.89,Shooter,Japan
+2006,2.38,Simulation,Japan
+2006,8.69,Sports,Japan
+2006,0.51,Strategy,Japan
+2007,6.13,Action,Japan
+2007,3.55,Adventure,Japan
+2007,2.73,Fighting,Japan
+2007,11.46,Misc,Japan
+2007,2.98,Platform,Japan
+2007,3.06,Puzzle,Japan
+2007,0.94,Racing,Japan
+2007,12.43,Role-Playing,Japan
+2007,1.53,Shooter,Japan
+2007,3.02,Simulation,Japan
+2007,9.59,Sports,Japan
+2007,2.87,Strategy,Japan
+2008,6,Action,Japan
+2008,4.34,Adventure,Japan
+2008,6.14,Fighting,Japan
+2008,7.24,Misc,Japan
+2008,2.36,Platform,Japan
+2008,0.92,Puzzle,Japan
+2008,4.21,Racing,Japan
+2008,17.51,Role-Playing,Japan
+2008,0.77,Shooter,Japan
+2008,3.66,Simulation,Japan
+2008,5.37,Sports,Japan
+2008,1.73,Strategy,Japan
+2009,11.96,Action,Japan
+2009,3.35,Adventure,Japan
+2009,3.02,Fighting,Japan
+2009,5.8,Misc,Japan
+2009,4.84,Platform,Japan
+2009,1.65,Puzzle,Japan
+2009,0.5,Racing,Japan
+2009,17.07,Role-Playing,Japan
+2009,1.12,Shooter,Japan
+2009,0.95,Simulation,Japan
+2009,9.81,Sports,Japan
+2009,1.82,Strategy,Japan
+2010,8.58,Action,Japan
+2010,3.6,Adventure,Japan
+2010,1.52,Fighting,Japan
+2010,6.69,Misc,Japan
+2010,3.68,Platform,Japan
+2010,0.49,Puzzle,Japan
+2010,1.04,Racing,Japan
+2010,23.67,Role-Playing,Japan
+2010,2.12,Shooter,Japan
+2010,1.66,Simulation,Japan
+2010,4.42,Sports,Japan
+2010,2.02,Strategy,Japan
+2011,10.82,Action,Japan
+2011,3.83,Adventure,Japan
+2011,2.94,Fighting,Japan
+2011,4.74,Misc,Japan
+2011,3.5,Platform,Japan
+2011,0.77,Puzzle,Japan
+2011,3.14,Racing,Japan
+2011,14.43,Role-Playing,Japan
+2011,2.69,Shooter,Japan
+2011,1.23,Simulation,Japan
+2011,3.08,Sports,Japan
+2011,1.9,Strategy,Japan
+2012,12.31,Action,Japan
+2012,2.42,Adventure,Japan
+2012,1.79,Fighting,Japan
+2012,3.66,Misc,Japan
+2012,3.84,Platform,Japan
+2012,0.96,Puzzle,Japan
+2012,0.2,Racing,Japan
+2012,14.4,Role-Playing,Japan
+2012,2.62,Shooter,Japan
+2012,5.89,Simulation,Japan
+2012,2.6,Sports,Japan
+2012,1.11,Strategy,Japan
+2013,10.91,Action,Japan
+2013,2.22,Adventure,Japan
+2013,1.28,Fighting,Japan
+2013,3.59,Misc,Japan
+2013,2.1,Platform,Japan
+2013,0.25,Puzzle,Japan
+2013,0.54,Racing,Japan
+2013,19.88,Role-Playing,Japan
+2013,1.74,Shooter,Japan
+2013,2.21,Simulation,Japan
+2013,2.15,Sports,Japan
+2013,0.82,Strategy,Japan
+2014,6.53,Action,Japan
+2014,1.38,Adventure,Japan
+2014,4.83,Fighting,Japan
+2014,2.42,Misc,Japan
+2014,1.27,Platform,Japan
+2014,0.41,Puzzle,Japan
+2014,1.47,Racing,Japan
+2014,17.75,Role-Playing,Japan
+2014,1.08,Shooter,Japan
+2014,0.38,Simulation,Japan
+2014,1.61,Sports,Japan
+2014,0.56,Strategy,Japan
+2015,15.98,Action,Japan
+2015,1.04,Adventure,Japan
+2015,0.79,Fighting,Japan
+2015,2.15,Misc,Japan
+2015,1.31,Platform,Japan
+2015,0.52,Puzzle,Japan
+2015,0.28,Racing,Japan
+2015,6.8,Role-Playing,Japan
+2015,2.73,Shooter,Japan
+2015,1.6,Simulation,Japan
+2015,0.73,Sports,Japan
+2015,0.16,Strategy,Japan
+2016,7.07,Action,Japan
+2016,1.18,Adventure,Japan
+2016,0.75,Fighting,Japan
+2016,1.04,Misc,Japan
+2016,0.11,Platform,Japan
+2016,0,Puzzle,Japan
+2016,0.01,Racing,Japan
+2016,6.61,Role-Playing,Japan
+2016,1.06,Shooter,Japan
+2016,0.33,Simulation,Japan
+2016,0.92,Sports,Japan
+2016,0.23,Strategy,Japan
+2017,0.01,Action,Japan
+2017,0.05,Role-Playing,Japan
+2020,0,Simulation,Japan
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
+1980,0.34,Action,Worldwide
