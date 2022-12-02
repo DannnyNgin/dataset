@@ -1,0 +1,61 @@
+sales,genre,region
+510.99,Action,European Union
+160.15,Action,Japan
+863.17,Action,North America
+182.22,Action,Other
+1717.63,Action,Worldwide
+63.2,Adventure,European Union
+52.24,Adventure,Japan
+101.52,Adventure,North America
+16.37,Adventure,Other
+233.46,Adventure,Worldwide
+99,Fighting,European Union
+87.28,Fighting,Japan
+220.51,Fighting,North America
+35.87,Fighting,Other
+442.63,Fighting,Worldwide
+210.6,Misc,European Union
+107.02,Misc,Japan
+399.57,Misc,North America
+73.1,Misc,Other
+790.94,Misc,Worldwide
+199.39,Platform,European Union
+130.71,Platform,Japan
+444.44,Platform,North America
+51.01,Platform,Other
+825.86,Platform,Worldwide
+49.78,Puzzle,European Union
+56.68,Puzzle,Japan
+121.13,Puzzle,North America
+12.3,Puzzle,Other
+240.33,Puzzle,Worldwide
+234.49,Racing,European Union
+56.63,Racing,Japan
+356.86,Racing,North America
+75.51,Racing,Other
+723.7,Racing,Worldwide
+188.24,Role-Playing,European Union
+353.44,Role-Playing,Japan
+330.04,Role-Playing,North America
+59.41,Role-Playing,Other
+930.9,Role-Playing,Worldwide
+314.52,Shooter,European Union
+38.68,Shooter,Japan
+584.83,Shooter,North America
+103.33,Shooter,Other
+1041.83,Shooter,Worldwide
+113.35,Simulation,European Union
+63.64,Simulation,Japan
+180.67,Simulation,North America
+30.59,Simulation,Other
+388.4,Simulation,Worldwide
+371.33,Sports,European Union
+134.93,Sports,Japan
+671.2,Sports,North America
+132.21,Sports,Other
+1310.39,Sports,Worldwide
+44.79,Strategy,European Union
+49.3,Strategy,Japan
+67.75,Strategy,North America
+10.73,Strategy,Other
+172.85,Strategy,Worldwide
